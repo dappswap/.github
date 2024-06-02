@@ -1,3 +1,6 @@
+# Project taikai page
+### https://taikai.network/ethireland/hackathons/ethdubs2024/projects/clwv16yw10314uy01ostce6wq/idea 
+
 # 💫 About Me:
 I am currently immersed in studying Data Structures and Algorithms (DSA) with a focus on Java programming, while concurrently exploring the fascinating realm of blockchain technology.
 
