@@ -2,7 +2,7 @@
 ### https://taikai.network/ethireland/hackathons/ethdubs2024/projects/clwv16yw10314uy01ostce6wq/idea 
 
 # Landing page
-### https://plutus.webstudio.so/?t=33597 
+### https://plutus.webstudio.so/?t=15863
 
 
 
